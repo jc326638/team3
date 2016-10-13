@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="class.jetpack-sync-actions.php" server="ranjeetk.sgedu.site/www/" local="131208062980000000" remote="131207430600000000" Dst="0" />
+<file name="class.jetpack-sync-defaults.php" server="ranjeetk.sgedu.site/www/" local="131208063000000000" remote="131207430600000000" Dst="0" />
+<file name="class.jetpack-sync-functions.php" server="ranjeetk.sgedu.site/www/" local="131208063000000000" remote="131207430600000000" Dst="0" />
+<file name="class.jetpack-sync-json-deflate-array-codec.php" server="ranjeetk.sgedu.site/www/" local="131208063000000000" remote="131207430600000000" Dst="0" />
+<file name="class.jetpack-sync-listener.php" server="ranjeetk.sgedu.site/www/" local="131208063000000000" remote="131207430600000000" Dst="0" />
+<file name="class.jetpack-sync-module-attachments.php" server="ranjeetk.sgedu.site/www/" local="131208063000000000" remote="131207430600000000" Dst="0" />
+<file name="class.jetpack-sync-module-callables.php" server="ranjeetk.sgedu.site/www/" local="131208063000000000" remote="131207430600000000" Dst="0" />
+<file name="class.jetpack-sync-module-comments.php" server="ranjeetk.sgedu.site/www/" local="131208063020000000" remote="131207430600000000" Dst="0" />
+<file name="class.jetpack-sync-module-constants.php" server="ranjeetk.sgedu.site/www/" local="131208063020000000" remote="131207430600000000" Dst="0" />
+<file name="class.jetpack-sync-module-full-sync.php" server="ranjeetk.sgedu.site/www/" local="131208063020000000" remote="131207430600000000" Dst="0" />
+<file name="class.jetpack-sync-module-meta.php" server="ranjeetk.sgedu.site/www/" local="131208063020000000" remote="131207430600000000" Dst="0" />
+<file name="class.jetpack-sync-module-network-options.php" server="ranjeetk.sgedu.site/www/" local="131208063020000000" remote="131207430600000000" Dst="0" />
+<file name="class.jetpack-sync-module-options.php" server="ranjeetk.sgedu.site/www/" local="131208063040000000" remote="131207430600000000" Dst="0" />
+<file name="class.jetpack-sync-module-plugins.php" server="ranjeetk.sgedu.site/www/" local="131208063040000000" remote="131207430600000000" Dst="0" />
+<file name="class.jetpack-sync-module-posts.php" server="ranjeetk.sgedu.site/www/" local="131208063040000000" remote="131207430600000000" Dst="0" />
+<file name="class.jetpack-sync-module-protect.php" server="ranjeetk.sgedu.site/www/" local="131208063040000000" remote="131207430600000000" Dst="0" />
+<file name="class.jetpack-sync-module-stats.php" server="ranjeetk.sgedu.site/www/" local="131208063040000000" remote="131207430600000000" Dst="0" />
+<file name="class.jetpack-sync-module-terms.php" server="ranjeetk.sgedu.site/www/" local="131208063040000000" remote="131207430600000000" Dst="0" />
+<file name="class.jetpack-sync-module-themes.php" server="ranjeetk.sgedu.site/www/" local="131208063060000000" remote="131207430600000000" Dst="0" />
+<file name="class.jetpack-sync-module-updates.php" server="ranjeetk.sgedu.site/www/" local="131208063060000000" remote="131207430600000000" Dst="0" />
+<file name="class.jetpack-sync-module-users.php" server="ranjeetk.sgedu.site/www/" local="131208063060000000" remote="131207430600000000" Dst="0" />
+<file name="class.jetpack-sync-module.php" server="ranjeetk.sgedu.site/www/" local="131208063060000000" remote="131207430600000000" Dst="0" />
+<file name="class.jetpack-sync-modules.php" server="ranjeetk.sgedu.site/www/" local="131208063080000000" remote="131207430600000000" Dst="0" />
+<file name="class.jetpack-sync-queue.php" server="ranjeetk.sgedu.site/www/" local="131208063080000000" remote="131207430600000000" Dst="0" />
+<file name="class.jetpack-sync-sender.php" server="ranjeetk.sgedu.site/www/" local="131208063100000000" remote="131207430600000000" Dst="0" />
+<file name="class.jetpack-sync-server.php" server="ranjeetk.sgedu.site/www/" local="131208063120000000" remote="131207430600000000" Dst="0" />
+<file name="class.jetpack-sync-settings.php" server="ranjeetk.sgedu.site/www/" local="131208063120000000" remote="131207430600000000" Dst="0" />
+<file name="class.jetpack-sync-users.php" server="ranjeetk.sgedu.site/www/" local="131208063120000000" remote="131207430600000000" Dst="0" />
+<file name="interface.jetpack-sync-codec.php" server="ranjeetk.sgedu.site/www/" local="131208063120000000" remote="131207430600000000" Dst="0" />
+<file name="class.jetpack-sync-wp-replicastore.php" server="ranjeetk.sgedu.site/www/" local="131208063120000000" remote="131207430600000000" Dst="0" />
+<file name="interface.jetpack-sync-replicastore.php" server="ranjeetk.sgedu.site/www/" local="131208063120000000" remote="131207430600000000" Dst="0" />
+</dwsync>
