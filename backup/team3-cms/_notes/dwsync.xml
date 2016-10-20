@@ -9,13 +9,13 @@
 <file name="wp-comments-post.php" server="ranjeetk.sgedu.site/www/" local="131208056640000000" remote="131209503000000000" Dst="0" />
 <file name="wp-config-sample.php" server="ranjeetk.sgedu.site/www/" local="131208056640000000" remote="131209065000000000" Dst="0" />
 <file name="wp-config.php" server="ranjeetk.sgedu.site/www/" local="131208056660000000" remote="131209065000000000" Dst="0" />
-<file name="wp-cron.php" server="ranjeetk.sgedu.site/www/" local="131208064600000000" remote="130768632000000000" Dst="0" />
-<file name="wp-links-opml.php" server="ranjeetk.sgedu.site/www/" local="131208069000000000" remote="131084792400000000" Dst="0" />
-<file name="wp-load.php" server="ranjeetk.sgedu.site/www/" local="131208069000000000" remote="131050296000000000" Dst="0" />
-<file name="wp-mail.php" server="ranjeetk.sgedu.site/www/" local="131208069000000000" remote="131128708200000000" Dst="0" />
-<file name="wp-settings.php" server="ranjeetk.sgedu.site/www/" local="131208069020000000" remote="131155615200000000" Dst="0" />
-<file name="wp-login.php" server="ranjeetk.sgedu.site/www/" local="131208069020000000" remote="131103984600000000" Dst="0" />
-<file name="wp-trackback.php" server="ranjeetk.sgedu.site/www/" local="131208069020000000" remote="130618296000000000" Dst="0" />
-<file name="wp-signup.php" server="ranjeetk.sgedu.site/www/" local="131208069020000000" remote="131085800400000000" Dst="0" />
-<file name="xmlrpc.php" server="ranjeetk.sgedu.site/www/" local="131208069040000000" remote="131122662000000000" Dst="0" />
+<file name="wp-cron.php" server="ranjeetk.sgedu.site/www/" local="131208064600000000" remote="131211627600000000" Dst="0" />
+<file name="wp-links-opml.php" server="ranjeetk.sgedu.site/www/" local="131208069000000000" remote="131211634800000000" Dst="0" />
+<file name="wp-load.php" server="ranjeetk.sgedu.site/www/" local="131208069000000000" remote="131211634800000000" Dst="0" />
+<file name="wp-mail.php" server="ranjeetk.sgedu.site/www/" local="131208069000000000" remote="131211634800000000" Dst="0" />
+<file name="wp-settings.php" server="ranjeetk.sgedu.site/www/" local="131208069020000000" remote="131211634800000000" Dst="0" />
+<file name="wp-login.php" server="ranjeetk.sgedu.site/www/" local="131208069020000000" remote="131211634800000000" Dst="0" />
+<file name="wp-trackback.php" server="ranjeetk.sgedu.site/www/" local="131208069020000000" remote="131211634800000000" Dst="0" />
+<file name="wp-signup.php" server="ranjeetk.sgedu.site/www/" local="131208069020000000" remote="131211634800000000" Dst="0" />
+<file name="xmlrpc.php" server="ranjeetk.sgedu.site/www/" local="131208069040000000" remote="131211634800000000" Dst="0" />
 </dwsync>

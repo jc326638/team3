@@ -12,3 +12,6 @@ Domain Path: /languages/
 
 /* =Theme customization starts here
 -------------------------------------------------------------- */
+#page {
+    background-color:#d62b2b;
+}

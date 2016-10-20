@@ -1,0 +1,28 @@
+<html>
+<body>
+<h1>CP5637-Assignment 2-Group Project</h1>
+<h2> Names </h2>
+<li> Github username: jc(313512)
+<li> Github username: jc(326638)
+<li> Github username: jc(340203)
+<li> Github username: jc(344981)
+</body>
+</html>
+
+<h2>Goals of our project</h2>
+<p>1.The project aims at strengthening the high-end footwear production across the world.
+   2.To save the tradition and try to give the best services to our customers. 
+   3.To increase the added value of whole world footwears.
+   4.To increase the investment in design and modelling vocational educational training made by all over worls with tradition in Footwear.</p>
+
+<h2>Project links</h2>
+<a href="">Visit our production site </a><br>
+<a href="https://trello.com/b/fDUHkoTC/cms-project"> Trello Board </a> <br>
+<a href="https://team3-cms.slack.com/messages/general/"> Slack Group </a>
+
+<h2>Login Information</h2>
+<li> Admin Login: Team3
+<li> Admin Password: Team3@cms
+
+
+
